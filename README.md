@@ -1,1 +1,1 @@
-This repository holds the binaries for the [GeoTeams](https://austererisk.com/products/geoteams) applications, built by [Austere Risk Pty Ltd](https://austererisk.com).
+This repository holds the binaries for the [GeoTeams](https://austererisk.com/products/geoteams) application, built by [Austere Risk Pty Ltd](https://austererisk.com).
